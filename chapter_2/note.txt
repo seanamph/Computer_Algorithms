@@ -1,0 +1,30 @@
+Stacks and queues
+  Algorithm 2.1 Operations on a stack
+  Algorithm 2.2 Link representation of a stack
+  Algorithm 2.3 Basic queue Operations
+Trees
+  Definintion 2.2 A Binary Tree is a finite set of nodes
+Terminology
+Binary Trees
+Dictionaries
+Binary Search Trees
+  Algorithm 2.4 Recursive search of a Binary search tree
+  Algorithm 2.5 Iterative search of a Binary search tree
+  Algorithm 2.6 Searching a binary search tree by rank
+  Algorithm 2.7 Insetion into a binary search tree
+Cost Amortization
+Priority queues
+Heaps
+  Algorithm 2.8 Insertion into a Heap
+  Algorithm 2.9 Deletion from a heap
+  Algorithm 2.10 A sorting Algorithms
+  Algorithm 2.11 Creating a heap out of n arbitrary element
+  Algorithm 2.12 Heapsort
+
+Sets and disjoint set union
+  Algorithm 2.13 Simple Algorithms for union and find
+  Algorithm 2.14 Union Algorithm with weighting rule
+  Algorithm 2.15 Find algorithm with collapsing rule
+Union and Find Operations
+Graphs
+Graph Representations
