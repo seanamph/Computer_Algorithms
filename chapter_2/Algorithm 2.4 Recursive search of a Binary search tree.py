@@ -13,6 +13,22 @@ def search(root, key):
     
     return search(root.left, key)
 
+def iterative_search(root, key):
+    """
+    :param root: BST 的根節點
+    :param key: 待尋找的鍵值
+    :return: 如果存在則返回該節點，否則返回 None
+    """
+    current = root
+    while current is not None:
+        if current.data == key:
+            return current
+        elif current.data > key:
+            current = current.left
+        else:
+            current = current.right
+    return None
+
 def insert_node(root, val):
     if not root:
         return Node(val)
@@ -32,3 +48,4 @@ insert_node(root, 80)
 
 
 print(search(root, 40).data)
+print(iterative_search(root, 40).data)
