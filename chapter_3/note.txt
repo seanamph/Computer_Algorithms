@@ -1,0 +1,12 @@
+General Method
+Binary Search
+Finding The Maximum and minimum
+Merge Sort
+Quick Sort
+Selection
+Strassen's Matrix Multiplication
+Convex Hull
+Some Geometric Primitives
+QuickHull Algorithm
+Graham's Searching
+O(nlogn) Divide ang Conquer Algorithm
