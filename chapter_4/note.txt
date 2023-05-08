@@ -1,0 +1,11 @@
+The Greedy Method
+Knapsack Problem
+Tree Vertex Splitting
+Job Sequencing with Deadlines
+Minimum-Cost Spanning Trees
+Prim's Algorithm
+Kriskal's Algorithm
+Optimal Randomized Algorithm
+Optimal Storage on Tapes
+Single-Source Shortest Paths
+algorithm fjs
