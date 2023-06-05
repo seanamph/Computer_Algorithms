@@ -10,6 +10,7 @@ def knapsack(capacity, weights, values):
                 # 如果當前物品重量大於當前背包容量，則不放入當前物品
                 dp[i][j] = dp[i-1][j]
     # 回傳最大值
+    print(dp)
     return dp[len(weights)][capacity]
 
 # 範例測試
