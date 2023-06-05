@@ -1,0 +1,30 @@
+Dynamic Programming
+Knapsack
+Optimal merge patterns
+Shortest Path
+Principle of optimality
+Multistage Graphs
+Five-stage graph
+Four-stage graph
+three-project problem
+  Algorithm FGraph
+  Algorithm BGraph
+All-Pairs shortest paths
+negative cycle
+  Algorithm AllPaths
+  Directed graph
+  associated matrices
+Single-Source Shortest paths
+General Weights
+negative-length
+  Algorithm bellman_ford
+Optimal Binary Search Trees
+  Algorithm OBST
+  Algorithm Find
+String Editing
+0/1 Knapsack
+  Algorithm DKP
+  Algorithm DKnap
+Reliability Design
+The Traveling SalesPerson problem
+Flow Shop Scheduling
