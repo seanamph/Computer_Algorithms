@@ -8,4 +8,6 @@ file_list = os.listdir(directory)
 
 # 打印文件列表
 for file_name in file_list:
+    if os.path.splitext(file_name)[1] != ".pdf":
+        break
     print(file_name)
